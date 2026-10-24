@@ -1,6 +1,6 @@
 cask "yathing" do
-  version "1.0.0"
-  sha256 "a509764223acc3a5f029ddd576096df3b1afb6743fed8a5edc9682dd63b06f4f"
+  version "1.0.1"
+  sha256 "585d224eb8cde770de82751e7e905d6a5c5f3a000093ba8704c03ee31249fa83"
 
   url "https://github.com/sasca37/yathing/releases/download/v#{version}/yathing-#{version}.dmg"
   name "yathing"
